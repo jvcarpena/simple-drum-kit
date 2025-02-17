@@ -1,4 +1,4 @@
-# Drum Kit
+# Simple Drum Kit
 
 This JavaScript application simulates a virtual drum kit that can be played using both mouse clicks and keyboard keys. It dynamically plays drum sounds and provides visual feedback when a button is pressed or a key is pressed on the keyboard.
 
